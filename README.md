@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+<!--
+- 📛 I am Samit Kapoor
+- 🔭 I’m currently working on Flutter & DSA
+- 🔮 I want to become a full-stack developer
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+-->
 
 <!--
 **samitkapoor/samitkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
