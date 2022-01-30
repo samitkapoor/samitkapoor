@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 📛 I am Samit Kapoor
-- 📌 I live in Delhi, India
+- 📌 I live in New Delhi, India
 - 🔭 I’m currently working on Flutter & DSA
 - 🔮 I want to become a full-stack developer
 - ✉️ Contact with me at: samitkapoor77@gmail.com
