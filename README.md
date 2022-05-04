@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![Samit Kapoor's card name](https://cardivo.vercel.app/api?name=📛%20Samit%20Kapoor&description=20%20Year%20Old,%20CSE%20Undergrad%20from%20New%20Delhi,%20India.%20📌%20Currently%20working%20on%20Flutter,%20DSA,%20Node.js🔭&image=https://user-images.githubusercontent.com/77121931/166807468-ec3fc136-d553-4e98-b46c-1b9f8510fb1d.jpeg&backgroundColor=%237957d4&linkedin=Samit%20%20Kapoor&github=samitkapoor&pattern=ticTacToe&colorPattern=%239a68ff)
+![Samit Kapoor's card name](https://cardivo.vercel.app/api?name=📛%20Samit%20Kapoor&description=20%20Year%20Old,%20CSE%20Undergrad%20from%20New%20Delhi,%20India.%20📌%20Currently%20working%20on%20Flutter,%20DSA,%20Node.js🔭&image=https://user-images.githubusercontent.com/77121931/166812138-75ad476d-375f-4b93-bb27-27783b714a0a.jpg&backgroundColor=%237957d4&linkedin=Samit%20%20Kapoor&github=samitkapoor&pattern=ticTacToe&colorPattern=%239a68ff)
 
 - ✉️ Contact with me at: samitkapoor77@gmail.com
 - 👀 Take a look at my developer [Portfolio Application](https://github.com/samitkapoor/portfolio)
@@ -9,4 +9,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
-![Visitor Count](https://profile-counter.glitch.me/{samitkapoor}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{samitkapoor}/count.svg)![3](https://user-images.githubusercontent.com/77121931/166812037-c9d00a84-5c02-43ba-9a8e-9c14b5a6970c.jpg)
+
