@@ -9,5 +9,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
-![Visitor Count](https://profile-counter.glitch.me/{samitkapoor}/count.svg)![3](https://user-images.githubusercontent.com/77121931/166812037-c9d00a84-5c02-43ba-9a8e-9c14b5a6970c.jpg)
-
+![Visitor Count](https://profile-counter.glitch.me/{samitkapoor}/count.svg)
