@@ -10,3 +10,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
 ![Visitor Count](https://profile-counter.glitch.me/{samitkapoor}/count.svg)
+
+![snake gif](https://github.com/samitkapoor/samitkapoor/blob/output/github-contribution-grid-snake.gif)
