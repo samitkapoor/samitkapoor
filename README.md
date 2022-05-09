@@ -19,4 +19,4 @@
 </p>
 
 <h4 align="center">✉️ Contact with me at: samitkapoor77@gmail.com <br>
-👀 Take a look at my developer [Portfolio Application](https://github.com/samitkapoor/portfolio)</h4>
+👀 Take a look at my developer portfolio application: https://github.com/samitkapoor/portfolio </h4>
