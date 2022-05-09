@@ -18,5 +18,5 @@
   <img src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
 </p>
 
-<h5 align="center">✉️ Contact with me at: samitkapoor77@gmail.com <br>
-👀 Take a look at my developer [Portfolio Application](https://github.com/samitkapoor/portfolio)</h5>
+<h4 align="center">✉️ Contact with me at: samitkapoor77@gmail.com <br>
+👀 Take a look at my developer [Portfolio Application](https://github.com/samitkapoor/portfolio)</h4>
