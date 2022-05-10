@@ -33,7 +33,7 @@ jobs:
 #           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
 #           gif_out_path: dist/github-contribution-grid-snake.gif
 #           svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v2.0.0-rc.2
         with:    
         # github user name to read the contribution graph from (**required**)
         # using action context var `github.repository_owner` or specified user
