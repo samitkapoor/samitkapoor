@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/ocean.gif" />
 </p>
 
 <!-- ![SmartSelect_20220203-171423_One UI Home](https://user-images.githubusercontent.com/77121931/152338983-9cb9570c-0a18-4cff-b9e2-6b211bfd8fd2.gif)![SmartSelect_20220203-171515](https://user-images.githubusercontent.com/77121931/152338910-81b01713-e751-4454-b4f6-882bd8f48560.gif) -->
