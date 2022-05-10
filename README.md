@@ -18,5 +18,5 @@
   <img src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
 </p>
 
-<h4 align="center">✉️ Contact with me at: samitkapoor77@gmail.com <br>
-👀 Take a look at my developer portfolio application: https://github.com/samitkapoor/portfolio </h4>
+<h4 align="center">👀 Take a look at my Flutter package @https://pub.dev/packages/country_phone_code_picker  <br>
+✉️ Contact with me @samitkapoor77@gmail.com</h4>
