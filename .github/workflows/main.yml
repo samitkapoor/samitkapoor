@@ -49,11 +49,11 @@ jobs:
         #                 Exactly 5 colors are expected.
           palette: github-dark
           color_snake: '#00c647'
-          color_dots: '#9a68ff'
+#           color_dots: '#9a68ff'
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#00c647&color_dots=#bfd6f6,#8e66fa,#9a68ff,#a468ff,#ae68ff
+            dist/ocean.gif?color_snake=#00c647
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
