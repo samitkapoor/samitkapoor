@@ -1,7 +1,24 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hey there :wave: I am Samit Kapoor :name_badge: </h1>
+
+
 
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=📛%20Samit%20Kapoor&description=20%20Year%20Old,%20CSE%20Undergrad%20from%20New%20Delhi,%20India.%20📌%20Currently%20working%20on%20Flutter,%20DSA,%20Node.js🔭&image=https://user-images.githubusercontent.com/77121931/166812138-75ad476d-375f-4b93-bb27-27783b714a0a.jpg&backgroundColor=%237957d4&linkedin=Samit%20%20Kapoor&github=samitkapoor&instagram=im_samit&pattern=ticTacToe&colorPattern=%239a68ff" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <button name="hackerrank" onclick="https://www.hackerrank.com/samitkapoor77"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></button>
+  <button name="leetcode" onclick="https://leetcode.com/samitkapoor/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></button>
+  <button name="linkedin" onclick="https://www.linkedin.com/in/samit-kapoor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></button>
+  <button name="instagram" onclick="https://www.instagram.com/im_samit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></button>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</p>
+
+
+<p align="center">
+  <img height=220 src="https://user-images.githubusercontent.com/77121931/167940627-9bd13e01-6336-4cea-9019-080d196c2866.gif" />
+  <img height=220 src="https://user-images.githubusercontent.com/77121931/167942418-e33b6919-c96a-4450-96c2-ae5e632beca5.gif" />
+  <img height=220 src="https://user-images.githubusercontent.com/77121931/167942050-8b45e1a5-8c05-43d1-9734-320991a5baf9.gif" />
 </p>
 
 <p align="center">
@@ -20,3 +37,6 @@
 
 <h4 align="center">👀 Take a look at my Flutter package @https://pub.dev/packages/country_phone_code_picker  <br>
 ✉️ Contact with me @samitkapoor77@gmail.com</h4>
+
+
+
