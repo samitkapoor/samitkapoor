@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 </h1>
 
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=📛%20Samit%20Kapoor&description=20%20Year%20Old,%20CSE%20Undergrad%20from%20New%20Delhi,%20India.%20📌%20Currently%20working%20on%20Flutter,%20DSA,%20Node.js🔭&image=https://user-images.githubusercontent.com/77121931/166812138-75ad476d-375f-4b93-bb27-27783b714a0a.jpg&backgroundColor=%237957d4&linkedin=Samit%20%20Kapoor&github=samitkapoor&pattern=ticTacToe&colorPattern=%239a68ff" />
+  <img src="https://cardivo.vercel.app/api?name=📛%20Samit%20Kapoor&description=20%20Year%20Old,%20CSE%20Undergrad%20from%20New%20Delhi,%20India.%20📌%20Currently%20working%20on%20Flutter,%20DSA,%20Node.js🔭&image=https://user-images.githubusercontent.com/77121931/166812138-75ad476d-375f-4b93-bb27-27783b714a0a.jpg&backgroundColor=%237957d4&linkedin=Samit%20%20Kapoor&github=samitkapoor&instagram=im_samit&pattern=ticTacToe&colorPattern=%239a68ff" />
 </p>
 
 <p align="center">
