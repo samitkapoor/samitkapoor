@@ -22,7 +22,7 @@
   <img height=200 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" />
 </p>
 
-<h4 align="center">⌨️ Constantly looking for projects to work on<br>Connect with me on social media and talk to me about anything 😄</h4>
+<h4 align="center">⌨️ Constantly looking for projects to work on<br>👀 Take a look at my Flutter package @https://pub.dev/packages/country_phone_code_picker<br>Connect with me on social media and talk to me about anything 😄<br>✉️ Contact me @samitkapoor77@gmail.com</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
@@ -35,9 +35,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
 </p>
-
-<h4 align="center">👀 Take a look at my Flutter package @https://pub.dev/packages/country_phone_code_picker  <br>
-✉️ Contact with me @samitkapoor77@gmail.com</h4>
-
-
-
