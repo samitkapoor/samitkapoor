@@ -1,6 +1,4 @@
-<h1 align="center">Hey there :wave: I am Samit Kapoor :name_badge: </h1>
-
-
+<h1 align="center">Hey there :wave: I am :name_badge: Samit Kapoor</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -14,20 +12,21 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </p>
 
+<h4 align="center">A passionate, self taught <A href="https://github.com/samitkapoor/portfolio">Flutter Developer</A> from 🏠New Delhi, India.<br>Loves 💻programming, 🎮<A href="https://www.youtube.com/watch?v=qPNiIeKMHyg">video games</A>, 🎷good <A href="https://www.youtube.com/watch?v=6EA-MIYY1bg">music</A>, 📸<A href="https://www.instagram.com/sxmclicks/">photography</A>, 🦸marvel, ♟️chess and 🎹piano.<br>Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A>, Flutter and Node.js</h4>
 
 <p align="center">
   <img height=220 src="https://user-images.githubusercontent.com/77121931/167940627-9bd13e01-6336-4cea-9019-080d196c2866.gif" />
   <img height=220 src="https://user-images.githubusercontent.com/77121931/167942418-e33b6919-c96a-4450-96c2-ae5e632beca5.gif" />
   <img height=220 src="https://user-images.githubusercontent.com/77121931/167942050-8b45e1a5-8c05-43d1-9734-320991a5baf9.gif" />
+  <img height=220 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" />
+  <img height=220 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" />
 </p>
 
-<h4 align="center">Self taught <A href="https://github.com/samitkapoor/portfolio">Flutter Developer</A> from 🏠New Delhi, India.<br>Loves 🎮<A href="https://www.youtube.com/watch?v=qPNiIeKMHyg">video games</A>, 🎷good <A href="https://www.youtube.com/watch?v=6EA-MIYY1bg">music</A>, 💻programming, 📸<A href="https://www.instagram.com/sxmclicks/">photography</A>, 🦸marvel, ♟️chess and 🎹piano.<br>Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A>, Flutter and Node.js</h4>
+<h4 align="center">⌨️ Constantly looking for projects to work on<br>Connect with me on social media and talk to me about anything 😄</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
 </p>
-
-<!-- ![SmartSelect_20220203-171423_One UI Home](https://user-images.githubusercontent.com/77121931/152338983-9cb9570c-0a18-4cff-b9e2-6b211bfd8fd2.gif)![SmartSelect_20220203-171515](https://user-images.githubusercontent.com/77121931/152338910-81b01713-e751-4454-b4f6-882bd8f48560.gif) -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
