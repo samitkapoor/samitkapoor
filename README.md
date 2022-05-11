@@ -21,7 +21,7 @@
   <img height=220 src="https://user-images.githubusercontent.com/77121931/167942050-8b45e1a5-8c05-43d1-9734-320991a5baf9.gif" />
 </p>
 
-<h3 align="center">Self taught Flutter Developer from New Delhi, India. Loves gaming, music, programming. Working on DSA, Flutter and Node.js</h3>
+<h4 align="center">Self taught <A href="https://github.com/samitkapoor/portfolio">Flutter Developer</A> from 🏠New Delhi, India.<br>Loves 🎮<A href="https://www.youtube.com/watch?v=qPNiIeKMHyg">video games</A>, 🎷good <A href="https://www.youtube.com/watch?v=6EA-MIYY1bg">music</A>, 💻programming, 📸<A href="https://www.instagram.com/sxmclicks/">photography</A>, 🦸marvel, ♟️chess and 🎹piano.<br>Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A>, Flutter and Node.js</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
