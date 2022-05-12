@@ -1,6 +1,6 @@
 <h1 align="left">Hey there! 👋 I am 📛 Samit Kapoor</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
 <h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3><br>
 
