@@ -1,5 +1,7 @@
 <h1 align="left">Hey there! 👋 I am 📛 Samit Kapoor</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)](https://git.io/typing-svg)
+
 <h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3><br>
 
 <img height=320 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><br>
@@ -56,10 +58,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
 </p>                                                                                                 
-
-<br>
-
-🎗️ **"sic parvis magna"** - _⭐ Greatness from small beginnings_
 
 <br>
 
