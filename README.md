@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </p>
 
-- 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <img height=300 align=right src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif" />  <br>
+- 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <img height=250 align=right src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif" />  <br>
 - 🔰 Currently learning Node.js <br>
 - 👀 Constantly looking for projects to work on <br>
 - 😄 Take a look at my Flutter [package](https://pub.dev/packages/country_phone_code_picker) <br>
@@ -40,7 +40,7 @@
   - 👔 [Connect on Linkedin](https://www.linkedin.com/in/samit-kapoor)
   - 🤗 Talk to me about anything!
 
-<br><br><br>
+<br><br>
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
