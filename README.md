@@ -6,7 +6,7 @@
 
 <img height=320 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><br>
 
-<h3 align="left"><br>🔥 Interested in - </h3>
+<h3 align="left">🔥 Interested in - </h3>
 
 <img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168064727-3e4249bb-8161-40bf-9b47-de75505d6853.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
 
