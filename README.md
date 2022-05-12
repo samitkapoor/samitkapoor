@@ -61,6 +61,6 @@
   <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
 </p>                                                                                                 
 
-<br>
+<!-- <br> -->
 
-<img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
+<!-- <img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" /> -->
