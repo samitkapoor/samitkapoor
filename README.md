@@ -58,6 +58,9 @@
 </p>                                                                                                 
 
 <br>
-<p align="right">
-  <img src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
-</p>
+
+🎗️ **"sic parvis magna"** - _⭐ Greatness from small beginnings_
+
+<br>
+
+<img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" />
