@@ -44,10 +44,10 @@
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img height=`50 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=samitkapoor">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=samitkapoor" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=samitkapoor" />
   </a>
 </p>
 
