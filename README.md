@@ -13,7 +13,7 @@
 - 📱 Mobile development <br>
 - 💻 Programming<br>
 - 🎮 Video games<br>
-- 📸 Photography<br>
+- 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
 - 🦸 Marvel<br>
 - ♟️ Chess<br>
 - 🎹 Piano<br>
