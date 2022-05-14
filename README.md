@@ -38,7 +38,7 @@
 - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <img height=250 align=right src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif" />  <br>
 - 🔰 Currently learning node.js and java<br>
 - 👀 Constantly looking for projects to work on <br>
-- ⭐ 6 stars on Hackerrank in Problem Solving <br>
+- ⭐ 6 stars on Hackerrank in [Problem Solving](https://www.hackerrank.com/samitkapoor77) <br>
 - 😄 Take a look at my Flutter [package](https://pub.dev/packages/country_phone_code_picker) <br>
 - 🤝 Let's connect! <br>
   - ✉️ [Connect on mail](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm) <br>
