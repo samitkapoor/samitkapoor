@@ -19,7 +19,7 @@
 - 🎹 Piano<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true)
 <br>
 
 <p>
