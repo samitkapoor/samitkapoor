@@ -60,7 +60,9 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+  <a href="https://github.com/Platane/snk#readme">
+    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+  </a>
 </p>                                                                                                 
 
 <!-- <br> -->
