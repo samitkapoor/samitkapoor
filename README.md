@@ -20,7 +20,12 @@
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
 🎵 Hey Alexa, play - <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true)
+<p>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true">
+    <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+
 <br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/samitkapoor/portfolio)
@@ -49,10 +54,10 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img  align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+    <img height=200 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img  height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   
 </p>
