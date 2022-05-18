@@ -48,7 +48,7 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=samitkapoor">
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/samitkapoor?cardType=github&theme=github">
     <img height=150 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/samitkapoor?cardType=github&theme=github"/>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
