@@ -52,7 +52,7 @@
     <img  align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   
 </p>
