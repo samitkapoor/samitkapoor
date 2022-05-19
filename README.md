@@ -39,17 +39,20 @@
 [![Flutter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_samit/)
 [![Flutter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm)
 
-- 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <img height=250 align=right src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif" />  <br>
-- 🔰 Currently learning node.js and java<br>
-- 👀 Constantly looking for projects to work on <br>
-- ⭐ 6 stars on Hackerrank in [Problem Solving](https://www.hackerrank.com/samitkapoor77) <br>
-- 😄 Take a look at my Flutter [package](https://pub.dev/packages/country_phone_code_picker) <br>
-- 🤝 Let's connect! <br>
-  - ✉️ [Connect on mail](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm) <br>
-  - 📸 [Connect on Instagram](https://www.instagram.com/im_samit) <br>
-  - 👔 [Connect on Linkedin](https://www.linkedin.com/in/samit-kapoor)
-  - 🤗 Talk to me about anything!
+ <img height=250 width=400 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/> 
 
+<p>
+  - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
+  - 🔰 Currently learning node.js and java<br>
+  - 👀 Constantly looking for projects to work on <br>
+  - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
+  - 😄 Take a look at my Flutter <A href="https://pub.dev/packages/country_phone_code_picker">package</A> <br>
+  - 🤝 Let's connect! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm">Connect on mail</A> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 🤗 Talk to me about anything!
+</p>
 <br><br>
 
 <p align="center">
