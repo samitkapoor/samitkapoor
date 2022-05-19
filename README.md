@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
-<h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3><br>
+<h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3>
+<br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/samitkapoor/portfolio)
 [![Flutter](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/samitkapoor/DSA)
@@ -16,20 +17,8 @@
 [![Flutter](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm)
 <br>
 
-<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/><br>
-
-<p align="left">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=180 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img  height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-  
-</p>
-
+<img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 align="right" src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
 <br>
-
 
 - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
 - 🔰 Currently learning node.js and java<br>
@@ -41,20 +30,24 @@
   - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
   - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
   - 🤗 Talk to me about anything!
-<br><br>
+<br>
+<br>
 
 <p align="left">
-  <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height=180 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
   </a>
-</p>     
+  <a href="https://github-readme-streak-stats.herokuapp.com/demo">
+    <img  height=180 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</p>
 <br>
 
 <h3 align="left">🔥 Interested in - </h3>
 
 <img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168064727-3e4249bb-8161-40bf-9b47-de75505d6853.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
 
-- 📱 Mobile development <br>
+- 📱 Mobile development<br>
 - 💻 Programming<br>
 - 🎮 Video games<br>
 - 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
@@ -69,10 +62,14 @@
     <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=novatorem&bar_color=1dd560&bar_color_cover=false">
   </a>
 </p>
-
 <br>
+
+<p align="left">
+  <a href="https://github.com/Platane/snk#readme">
+    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+  </a>
+</p>     
+<br>
+
                                                                                             
-
-<!-- <br> -->
-
 <!-- <img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" /> -->
