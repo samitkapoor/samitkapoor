@@ -63,7 +63,7 @@
 
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+    <img height=150 src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
   </a>
 </p>     
 <br>
