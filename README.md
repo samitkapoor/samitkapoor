@@ -7,7 +7,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/samitkapoor/portfolio)
 [![Flutter](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/samitkapoor/DSA)
-[![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/country_phone_code_picker)
+[![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/samitkapoor/country_phone_code_picker)
 [![Flutter](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/samitkapoor/DSA)
 [![Flutter](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/samitkapoor/DSA)
 [![Flutter](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samitkapoor77?hr_r=1)
