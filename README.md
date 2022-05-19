@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! 👋 I am 📛 Samit Kapoor</h1>
+# Hey there! 👋 I am 📛 Samit Kapoor
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
@@ -30,6 +30,8 @@
   - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
   - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
   - 🤗 Talk to me about anything!
+
+------------------
   
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -39,6 +41,8 @@
     <img  height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
+
+-----------------
 
 <h3 align="left">🔥 Interested in - </h3>
 
@@ -61,9 +65,11 @@
 </p>
 <br>
 
+-----------
+
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
-    <img height=150 src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
   </a>
 </p>     
 <br>
