@@ -42,7 +42,7 @@
   </a>
 </p>
 
------------------
+------------------
 
 <h3 align="left">🔥 Interested in - </h3>
 
@@ -65,7 +65,7 @@
 </p>
 <br>
 
------------
+------------------
 
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
