@@ -30,9 +30,7 @@
   - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
   - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
   - 🤗 Talk to me about anything!
-<br>
-<br>
-
+  
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height=150 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
@@ -41,7 +39,6 @@
     <img  height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-<br>
 
 <h3 align="left">🔥 Interested in - </h3>
 
