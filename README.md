@@ -1,4 +1,4 @@
-# Hey there! 👋 I am 📛 Samit Kapoor
+# Hey there! <img height=40 src="https://user-images.githubusercontent.com/77121931/169316497-20a78744-80ca-4611-a62a-2521544760a5.gif"/> I am 📛 Samit Kapoor
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
