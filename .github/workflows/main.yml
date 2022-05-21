@@ -47,8 +47,8 @@ jobs:
         #  - color_dots:  Coma separated list of dots color.
         #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
         #                 Exactly 5 colors are expected.
-          palette: github-dark
-          color_snake: '#00c647'
+#           palette: github-dark
+#           color_snake: '#00c647'
 #           color_dots: '#9a68ff'
           outputs: |
             dist/github-snake.svg
