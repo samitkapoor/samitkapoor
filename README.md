@@ -35,10 +35,10 @@
   
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=150 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+    <img align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=150 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+    <img align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
   </a>
 <!--   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img  height=145 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
