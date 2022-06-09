@@ -50,7 +50,7 @@
 
 
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 
 - 📱 Mobile development<br>
