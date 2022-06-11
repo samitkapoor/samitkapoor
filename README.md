@@ -26,7 +26,7 @@
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
   - <A href="https://pub.dev/packages/country_phone_code_picker">country_phone_code_picker</A>
-  - <A href="https://pub.dev/packages/fading_widget_animation">fading_widget_animation</A>
+<!--   - <A href="https://pub.dev/packages/fading_widget_animation">fading_widget_animation</A> -->
 - 🤝 Let's connect! <br>
   - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm">Connect on mail</A> <br>
   - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
