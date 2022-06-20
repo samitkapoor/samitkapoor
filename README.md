@@ -63,7 +63,7 @@
   </a> -->
   
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img height=250 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/dexter.gif" />
+    <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/dexter.gif" />
   </a>
 
 - 📱 Mobile development<br>
