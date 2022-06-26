@@ -1,8 +1,8 @@
 <!-- # Hey there! <img height=40 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> I am 📛 Samit Kapoor -->
 
 ```python
-. .      .     .   .  .    _,   .   .  .  . ___   .    _   .
-|_| .    |    /_\  |\/|   (_   /_\  |\/|  |  |    |/  /_\  |) /'\ /'\ |)
+. . .    .     .   .  .    _,   .   .  .  . ___   .    .   .
+|_| |    |    /_\  |\/|   (_   /_\  |\/|  |  |    |/  /_\  |) /'\ /'\ |)
 | | |,   |   /   \ |  |   ._) /   \ |  |  |  |    |\ /   \ |  \./ \./ |\
 ```
 
