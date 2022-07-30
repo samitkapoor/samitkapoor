@@ -60,12 +60,13 @@
 
 <!--   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  </a> -->
+  </a>
   
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/dexter.gif" />
   </a>
-
+ -->
+ 
 - 📱 Mobile development<br>
 - 💻 Programming<br>
 - 🎮 Video games<br>
