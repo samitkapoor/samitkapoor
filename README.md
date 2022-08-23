@@ -73,7 +73,7 @@
 - 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
 - 🏋️‍♂️ Fitness<br>
 - ⚽ Football<br>
-- ♟️ Chess<br>
+- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
 - 🎹 Piano<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
