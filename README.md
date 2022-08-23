@@ -71,7 +71,7 @@
 - 💻 Programming<br>
 - 🎮 Video games<br>
 - 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
-- 🦸 Marvel<br>
+- 🏋️‍♂️ Fitness<br>
 - ♟️ Chess<br>
 - 🎹 Piano<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
