@@ -71,7 +71,6 @@
 - 💻 Programming<br>
 - 🎮 Video games<br>
 - 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
-- 🏋️‍♂️ Fitness<br>
 - ⚽ Football<br>
 - ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
 - 🎹 Piano<br>
