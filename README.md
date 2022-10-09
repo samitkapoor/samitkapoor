@@ -71,14 +71,16 @@
   </a>
  -->
  
-- 📱 Mobile development<br>
-- 💻 Programming<br>
-- 🎮 Video games<br>
-- 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
-- ⚽ Football<br>
-- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
-- 🎹 Piano<br>
-- 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
+<p align="center">
+📱 Mobile development<br>
+💻 Programming<br>
+🎮 Video games<br>
+📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
+⚽ Football<br>
+♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
+🎹 Piano<br>
+🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
+</p>
 
 ### 🎵 Hey Alexa, play - <br>
 <p>
