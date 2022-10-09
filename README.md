@@ -72,14 +72,14 @@
 
 <img height=180 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/secondcourage.gif" />
 
-📱 Mobile development<br>
-💻 Programming<br>
-🎮 Video games<br>
-📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
-⚽ Football<br>
-♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
-🎹 Piano<br>
-🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
+- 📱 Mobile development<br>
+- 💻 Programming<br>
+- 🎮 Video games<br>
+- 📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
+- ⚽ Football<br>
+- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
+- 🎹 Piano<br>
+- 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
 <!--   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
