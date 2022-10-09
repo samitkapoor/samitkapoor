@@ -56,7 +56,7 @@
 </p>
 
 ------------------
-<h3 align="left">🔥 My Interests</h3>
+<h3 align="left">🔥 Interested in - </h3>
 
 <p align="left">
 <img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168064727-3e4249bb-8161-40bf-9b47-de75505d6853.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
