@@ -27,6 +27,10 @@
 <img height=300 src="https://user-images.githubusercontent.com/77121931/168066191-076e7dc6-212c-4465-a7d0-ff44e23a4d70.gif" /><img height=300 src="https://user-images.githubusercontent.com/77121931/168083944-913d2267-5134-4a86-b242-8147d6a2f0a6.gif"/>
 <br>
 
+<a href="https://labs.openai.com/s/BRmhpDObklCbkwL0tZOEFAyG">
+    <img height=300 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
+  </a>
+
 - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
 - 🔰 Currently learning node.js and java<br>
 - 👀 Constantly looking for projects to work on <br>
@@ -42,7 +46,7 @@
 
 ------------------
   
-<p align="left">
+<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height=155 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
   </a>
@@ -52,29 +56,31 @@
 </p>
 
 ------------------
+<h3 align="center">🔥 My Interests</h3>
 
-### 🔥 Interested in -
-
+<p align="center">
 <img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168064727-3e4249bb-8161-40bf-9b47-de75505d6853.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
+</p>
 
+<p align="center">
+📱 Mobile development<br>
+💻 Programming<br>
+🎮 Video games<br>
+📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
+⚽ Football<br>
+♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
+🎹 Piano<br>
+🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
+</p>
 
 <!--   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=samitkapoor&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   
   <a href="https://github-readme-streak-stats.herokuapp.com/demo">
-    <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/dexter.gif" />
+    <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
   </a>
  -->
- 
-- 📱 Mobile development<br>
-- 💻 Programming<br>
-- 🎮 Video games<br>
-- 📸 [Photography](https://www.instagram.com/sxmclicks/)<br>
-- ⚽ Football<br>
-- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
-- 🎹 Piano<br>
-- 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
 ### 🎵 Hey Alexa, play - <br>
 <p>
