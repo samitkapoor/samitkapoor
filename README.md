@@ -46,7 +46,7 @@
 
 ------------------
   
-<p align="left">
+<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height=155 align="center" src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
   </a>
