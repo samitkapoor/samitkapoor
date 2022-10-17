@@ -40,7 +40,7 @@
   - fading_widget_animation <A href="https://pub.dev/packages/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
 - 🤝 Let's connect! <br>
   - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm">Connect on mail</A> <br>
-  - 📸 <A href="https://www.instagram.com/im_samit">Connect on Instagram</A> <br>
+  - 📸 <A href="https://www.instagram.com/sxmclicks">Connect on Instagram</A> <br>
   - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
   - 🤗 Talk to me about anything!
 
