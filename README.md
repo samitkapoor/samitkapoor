@@ -32,7 +32,7 @@
   </a>
 
 - 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
-- 🔰 Currently learning node.js and java<br>
+- 🔰 Currently learning node.js<br>
 - 👀 Constantly looking for projects to work on <br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
