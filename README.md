@@ -90,12 +90,12 @@
   </a>
  -->
 
-### 🎵 Hey Alexa, play - <br>
-<p>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true">
-    <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=novatorem&bar_color=1dd560&bar_color_cover=false">
-  </a>
-</p>
+<!-- ### 🎵 Hey Alexa, play - <br> -->
+<!-- <p> -->
+<!--   <a href="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&redirect=true"> -->
+<!--     <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=mcsamit&cover_image=true&theme=novatorem&bar_color=1dd560&bar_color_cover=false"> -->
+<!--   </a> -->
+<!-- </p> -->
 
 ------------------
 
