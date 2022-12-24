@@ -12,15 +12,15 @@
 <h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3>
 <br>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/samitkapoor/portfolio)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/samitkapoor/DSA)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/samitkapoor/country_phone_code_picker)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/samitkapoor/DSA)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/samitkapoor/DSA)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/samitkapoor77?hr_r=1)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/samitkapoor/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samit-kapoor/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_samit/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm)
 <br>
 
@@ -31,8 +31,8 @@
     <img height=300 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
   </a>
 
-- 🔭 Currently working on <A href="https://github.com/samitkapoor/DSA">DSA</A> and Flutter <br>
-- 🔰 Currently learning node.js<br>
+- 🔭 Currently working on DSA and Flutter <br>
+- 🔰 Currently exploring web dev and node.js<br>
 - 👀 Constantly looking for projects to work on <br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
@@ -77,7 +77,7 @@
 - 🎮 Video games<br>
 - 📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
 - ⚽ Football<br>
-- ♟️ <A href="https://www.chess.com/member/samitkapoor">Chess</A><br>
+- ♟️ <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Chess</A><br>
 - 🎹 Piano<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
