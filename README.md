@@ -97,14 +97,14 @@
 <!--   </a> -->
 <!-- </p> -->
 
-------------------
+<!-- ------------------ -->
 
-<p align="left">
-  <a href="https://github.com/Platane/snk#readme">
-    <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" />
-  </a>
-</p>     
-<br>
+<!-- <p align="left"> -->
+<!--   <a href="https://github.com/Platane/snk#readme"> -->
+<!--     <img src="https://raw.githubusercontent.com/samitkapoor/samitkapoor/output/github-snake-dark.svg" /> -->
+<!--   </a> -->
+<!-- </p>      -->
+<!-- <br> -->
 
                                                                                             
 <!-- <img align="right" src="https://profile-counter.glitch.me/{samitkapoor}/count.svg" /> -->
