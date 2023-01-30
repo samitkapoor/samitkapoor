@@ -32,9 +32,10 @@
   </a>
 
 - 🔭 Currently working on DSA and Flutter <br>
-- 🔰 Currently exploring web dev and node.js<br>
+- 🔰 Currently learning web dev and node.js<br>
 - 👀 Constantly looking for projects to work on <br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
+- 🖊️ [Portfolio](https://www.samitkapoor.netlify.app) <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
   - country_phone_code_picker <A href="https://pub.dev/packages/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
   - fading_widget_animation <A href="https://pub.dev/packages/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
