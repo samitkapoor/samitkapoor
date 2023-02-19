@@ -11,7 +11,7 @@
 
 <h3 align="left">A passionate, self taught Developer from 🏠New Delhi, India.</h3>
 
-- 🖊️ [My Portfolio Website](https://www.samitkapoor.netlify.app) <br>
+- 🖊️ [My Portfolio Website](https://samitkapoor.netlify.app/) <br>
 <br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
