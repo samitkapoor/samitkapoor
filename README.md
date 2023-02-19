@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
 
-<h3 align="left">A passionate, self taught Flutter Developer from 🏠New Delhi, India.</h3>
+<h3 align="left">A passionate, self taught Developer from 🏠New Delhi, India.</h3>
 <br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
