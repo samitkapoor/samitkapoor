@@ -33,7 +33,7 @@
 <br>
 
 <a href="https://labs.openai.com/s/BRmhpDObklCbkwL0tZOEFAyG">
-    <img height=300 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
+    <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
   </a>
 
 - 🔭 Currently exploring the wide universe of Web Development and Node.js<br>
@@ -69,9 +69,9 @@
 </p>
 -->
 
-<img height=180 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/couragethecowardlydog.gif" />
+<img height=150 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/couragethecowardlydog.gif" />
 
-<img height=180 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/secondcourage.gif" />
+<img height=150 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/secondcourage.gif" />
 
 - 🎮 Video games<br>
 - 📸 <A href="https://samclicks.netlify.app/">Photography</A><br>
