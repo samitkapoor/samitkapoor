@@ -36,18 +36,14 @@
     <img height=300 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
   </a>
 
-- 🔭 Currently working on DSA and Flutter <br>
-- 🔰 Currently learning web dev and node.js<br>
-- 👀 Constantly looking for projects to work on <br>
+- 🔭 Currently exploring the wide universe of Web Development and Node.js<br>
+- 👀 Searching for projects to work on <br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
   - country_phone_code_picker <A href="https://pub.dev/packages/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
   - fading_widget_animation <A href="https://pub.dev/packages/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
-- 🤝 Let's connect! <br>
-  - ✉️ <A href="https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm">Connect on mail</A> <br>
-  - 📸 <A href="https://www.instagram.com/sxmclicks">Connect on Instagram</A> <br>
-  - 👔 <A href="https://www.linkedin.com/in/samit-kapoor">Connect on Linkedin</A> <br>
-  - 🤗 Talk to me about anything!
+- 🤝 [Connect with me](https://linktr.ee/samitkapoorr)
+- 🤗 Talk to me about anything!
 
 ------------------
   
@@ -61,7 +57,7 @@
 </p>
 
 ------------------
-<h3 align="left">🔥 Interested in - </h3>
+<h3 align="left">🔥 Other than tech, I am interested in - </h3>
 
 <p align="left">
 <img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168064727-3e4249bb-8161-40bf-9b47-de75505d6853.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/167949535-63d84505-f979-4634-8bde-f2e38afd725d.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168080879-6769521c-a90a-4202-8715-d5fe6efc7429.gif" /><img height=150 src="https://user-images.githubusercontent.com/77121931/168081622-ff09779c-b413-4cc9-8967-8f40ffe05da8.gif" />
@@ -77,12 +73,9 @@
 
 <img height=180 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/secondcourage.gif" />
 
-- 📱 Mobile development<br>
-- 💻 Programming<br>
 - 🎮 Video games<br>
-- 📸 <A href="https://www.instagram.com/sxmclicks/">Photography</A><br>
+- 📸 <A href="https://samclicks.netlify.app/">Photography</A><br>
 - ⚽ Football<br>
-- ♟️ <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Chess</A><br>
 - 🎹 Piano<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
