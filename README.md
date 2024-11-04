@@ -42,7 +42,7 @@
 - 😄 Take a look at my Flutter packages 👇 <br>
   - country_phone_code_picker <A href="https://pub.dev/packages/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
   - fading_widget_animation <A href="https://pub.dev/packages/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/fading_widget_animation"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
-- 🤝 [Connect with me](https://linktr.ee/samitkapoorr)
+<!-- - 🤝 [Connect with me](https://linktr.ee/samitkapoorr) -->
 - 🤗 Talk to me about anything!
 
 ------------------
