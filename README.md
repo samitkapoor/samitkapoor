@@ -11,7 +11,7 @@
 # Hi there!👋 I am Samit Kapoor
 
 <!-- <h3 align="left">A passionate, self taught Developer from 🏠New Delhi, India.</h3>-->
-I'm a **Full Stack Web Developer** passionate about building scalable and efficient web applications. I specialize in React.js, Node.js, Express.js, TypeScript, and more. and I love working on projects that push my skills further.
+I'm a **Full Stack Web Developer** passionate about building scalable and efficient web applications. I specialize in `React.js`, `Node.js`, `Express.js`, `TypeScript`, and more. and I love working on projects that push my skills further.
 
 - 💡 Currently exploring `Three.js` to bring interactive 3D experiences to the web. <br/>
 - 🚀 Actively sharing my work and learnings on <A href="https://x.com/samitkapoorr">Twitter</A>. <br/>
