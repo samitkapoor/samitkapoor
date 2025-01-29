@@ -11,7 +11,7 @@
 
 <h3 align="left">A passionate, self taught Developer from 🏠New Delhi, India.</h3>
 
-- 🖊️ [My Portfolio Website](https://samitkapoor.netlify.app/) <br>
+- 🖊️ [My Portfolio Website](https://samitkapoor.com/) <br>
 <br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -36,8 +36,8 @@
     <img height=200 align="right" src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/DALL%C2%B7E%202022-10-09%2013.18.19%20-%20a%20silhouette%20of%20a%20computer%20programmer%20lounging%20on%20his%20work%20desk%20at%20the%20beach%20on%20a%20starry%20night%2C%20animated%20art.png" />
   </a>
 
-- 🔭 Currently exploring the wide universe of Web Development and Node.js<br>
-- 👀 Searching for projects to work on <br>
+- 🔭 Currently learning Three.js<br>
+- 👀 Searching for projects to work on.<br>
 - ⭐ 6 stars on Hackerrank in <A href="https://www.hackerrank.com/samitkapoor77">Problem Solving</A> <br>
 - 😄 Take a look at my Flutter packages 👇 <br>
   - country_phone_code_picker <A href="https://pub.dev/packages/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/flutter.svg" /></A> <A href="https://github.com/samitkapoor/country_phone_code_picker"><img height=20 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/github.png" /></A>
