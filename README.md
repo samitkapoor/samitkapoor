@@ -14,11 +14,11 @@
 I'm a **Full Stack Web Developer** passionate about building scalable and efficient web applications. I specialize in `React.js`, `Node.js`, `Express.js`, `TypeScript`, and more. and I love working on projects that push my skills further.
 
 - 💡 Exploring new projects ideas <br/>
-- 💡 Built [`StackBits`](https://stackbits.dev), [`ReadMeChef`](https://readmechef.com) – a little something to make dev life easier. <br/>
+- 💡 Built [`StackBits`](https://stackbits.dev), [`ReadMeChef`](https://readmechef.com) - a little something to make dev life easier. <br/>
 - 🚀 Actively sharing my work and learnings on <A href="https://x.com/samitkapoorr">Twitter</A>. <br/>
-- 📸 Also passionate about <A href="https://instagram.com/sxmclicks">photography</A>—capturing moments as beautifully as I build applications.<br/>
+- 📸 Also passionate about <A href="https://instagram.com/sxmclicks">photography</A> - capturing moments as beautifully as I build applications.<br/>
 - 🖊️ Curious about my work? Visit my [portfolio](https://samitkapoor.com).
-- 🔥 Got an idea in mind? You're in luck—I might just be available! Let's [connect](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm) and build something awesome.
+- 🔥 Got an idea in mind? I might just be available! Let's [connect](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm) and build something awesome.
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
