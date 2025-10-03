@@ -1,4 +1,7 @@
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9c6a4083-50f6-41a1-a261-72c6a83df1cb" />
+<!-- <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9c6a4083-50f6-41a1-a261-72c6a83df1cb" /> -->
+
+<img width="1248" height="415" alt="banner" src="https://github.com/user-attachments/assets/49488ada-44c5-4cd4-8270-007562373b16" />
+
 
 
 <!-- # Hey there! <img height=40 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> I am 📛 Samit Kapoor -->
