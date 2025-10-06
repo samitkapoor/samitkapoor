@@ -1,7 +1,6 @@
 <!-- <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9c6a4083-50f6-41a1-a261-72c6a83df1cb" /> -->
 
-<img width="1248" height="415" alt="banner" src="https://github.com/user-attachments/assets/49488ada-44c5-4cd4-8270-007562373b16" />
-
+<img width="1500" height="500" alt="banner2 0" src="https://github.com/user-attachments/assets/a7758134-6f3e-43fe-90a8-46eedd328b66" />
 
 
 <!-- # Hey there! <img height=40 src="https://github.com/samitkapoor/samitkapoor/blob/main/assets/images/wave-animation.gif"/> I am 📛 Samit Kapoor -->
@@ -21,15 +20,14 @@
 
 I build full-stack websites with an eye for design - making sure they look good and work even better. I move fast, learn quickly, and always aim to build with purpose and clarity.
 
+My projects: [StackBits](https://stackbits.dev), [ReadMeChef](https://readmechef.com), [BuildThatAI](https://buildthatai.com)
+
+Checkout my [Portfolio](https://samitkapoor.com)
+
 <!-- - 💡 Exploring new projects ideas <br/> -->
-- 💡 Built [`StackBits`](https://stackbits.dev), [`ReadMeChef`](https://readmechef.com), [`BuildThatAI`](https://buildthatai.com) <br/>
-- 🚀 Actively sharing my work and learnings on <A href="https://x.com/samitkapoorr">Twitter</A>. <br/>
-- 🖊️ Curious about my work? Visit my [portfolio](https://samitkapoor.com).
-- 📸 Also passionate about <A href="https://instagram.com/sxmclicks">photography</A> - capturing moments as beautifully as I build applications.<br/>
-- 🔥 Got an idea in mind? I might just be available! Let's [connect](https://mail.google.com/mail/u/0/?fs=1&to=samitkapoor77@gmail.com&tf=cm) and build something awesome.
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)
+<!--![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monaco&duration=4000&color=44F729&vCenter=true&lines=sic+parvis+magna;greatness+from+small+beginnings)-->
 <!--  [My Portfolio Website](https://samitkapoor.com/) <br> -->
 <be>
 
