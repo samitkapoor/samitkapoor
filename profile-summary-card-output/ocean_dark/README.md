@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/samitkapoor/samitkapoor/main/profile-summary-card-output/ocean_dark/2-most-commit-language.svg)
+```
+
+    
